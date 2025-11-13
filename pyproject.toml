@@ -1,0 +1,11 @@
+[project]
+name = "recruitgenie"
+version = "0.1.0"
+description = "RecruitGenie — an autonomous, multi-agent AI recruitment platform."
+authors = [{name="RecruitGenie Team", email="team@recruitgenie.example"}]
+readme = "README.md"
+requires-python = ">=3.8"
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
