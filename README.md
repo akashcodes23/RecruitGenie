@@ -211,4 +211,4 @@ Licensed under the MIT License, allowing full flexibility to reuse, modify, dist
 ## Contact
 
 If you have questions, suggestions, or collaboration ideas, feel free to reach out at:
-📩 akashgpatil23.05@gmail.com
+                                                  📩 akashgpatil23.05@gmail.com
