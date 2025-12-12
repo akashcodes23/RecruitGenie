@@ -1,0 +1,5 @@
+Alice Example
+alice@example.com
++1-555-0100
+Experienced Python developer. Built REST APIs with FastAPI and Django. Worked with PostgreSQL and Docker.
+TXT

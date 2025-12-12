@@ -1,0 +1,5 @@
+Bob Sample
+bob@example.com
++1-555-0200
+Backend engineer with experience in Java and SQL. Familiar with Docker. Worked on distributed systems.
+TXT
